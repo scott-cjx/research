@@ -16,8 +16,8 @@ author: Scott CJX
 
 
 ## Projects
-- [SCO 67 Keyboard]()
-- [Explore Keyboard]()
+- [SCO 67 Keyboard](./projects/sco67/)
+- [Explore Keyboard](./projects/explorekb/)
 
 
 ## Useful links for research

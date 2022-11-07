@@ -1,27 +1,20 @@
 ---
-title: research landing page
+title: Scott CJX
 author: Scott CJX
 ---
 
-# Scott CJX
-
 - [My Research](#my-research)
 - [Projects](#projects)
-- [Useful links for research](#useful-links-for-research)
-- [External links](#external-links)
-- [Github](https://github.com/scott-cjx)
+- [About Me](#about-me)
 
 ## My Research
 - [Raspberry Pi RP2040](./rp2040/)
 
-
 ## Projects
-- [SCO 67 Keyboard](./projects/sco67/)
-- [Explore Keyboard](./projects/explorekb/)
+- [Planned Upcoming Projects](./projects/upcoming/)
+- [My Portfolio Website](./projects/portfolio/)
+- [Hardware Electronics Adventures](./projects/hardware-electronics-adventures/)
+- [Keyboard Adventures](./projects/keyboard-adventures/)
 
-
-## Useful links for research
-Still a work in progress
-
-## External links
-Still a work in progress
+## About Me
+{% include about_me.html %}
